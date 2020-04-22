@@ -1,0 +1,8 @@
+﻿  Matrice.cpp
+  Matrice_oarecare.cpp
+  Matrice_patratica.cpp
+D:\Cursuri FMI\An 1\Sem2\POO\POOtema2\POOtema2\Matrice_patratica.cpp(83,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Vector.cpp
+  main.cpp
+  Generating Code...
+  POOtema2.vcxproj -> D:\Cursuri FMI\An 1\Sem2\POO\POOtema2\Debug\POOtema2.exe
